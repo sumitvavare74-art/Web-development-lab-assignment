@@ -1,0 +1,22 @@
+body {
+  max-width: 560px;
+  margin: 40px auto;
+  padding: 0 16px;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+form {
+  display: grid;
+  gap: 12px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  margin-bottom: 24px;
+}
+
+.submit {
+    background-color: blue;
+    color: white;
+}
